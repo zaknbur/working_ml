@@ -1,7 +1,8 @@
 repo_name: zaknbur/working_ml
 report_id: a5528880cabb10d588cc9e1f9d78f4cc
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-23T15:30:46+00:00'
+timestamp: '2024-01-05T08:35:02+00:00'
 requested_by: ColCarroll
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zaknbur/working_ml
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/zaknbur/working_ml
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zaknbur/working_ml
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -42,6 +46,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/zaknbur/working_ml/blob/master/index.html
   detection_source: index.html
   last_updated_by: Colin Carroll
   last_updated_on: 2017-12-05 07:07:46.000000000 Z
@@ -54,4 +59,5 @@ tools:
   category: Application Utilities
   sub_category: Data Science Notebooks
   image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/zaknbur/working_ml
   detection_source: Repo Metadata
